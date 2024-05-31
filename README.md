@@ -15,5 +15,10 @@ To set up and run the project, follow these steps:
    npm i    # To install necessary dependencies
    npm start # To run the app
    
-![GitHub Logo](https://drive.google.com/uc?export=view&id=1O_fleaiQv35OIGj_QFUCW169Suwk_o_b
-)
+![GitHub Logo](https://drive.google.com/uc?export=view&id=1O_fleaiQv35OIGj_QFUCW169Suwk_o_b)
+
+![GitHub Logo](https://drive.google.com/uc?export=view&id=1z4GPOdCl5y2lWEhzce9t6ZuCQRO5puNb)
+
+![GitHub Logo](https://drive.google.com/uc?export=view&id=1ECeLVZn-0crETiD4odGXCsBkjT3mFPg6)
+
+![GitHub Logo](https://drive.google.com/uc?export=view&id=1L7TsGvC_DSP2jdE6B3P2M0wLsztYmlqD)
